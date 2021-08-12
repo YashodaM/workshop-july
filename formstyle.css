@@ -1,0 +1,17 @@
+body{
+    background:radial-gradient(#fc050d,#fc0589);
+}
+section{
+    background:radial-gradient(#fc6868,#fc68a6);
+    color: black;
+    border-radius: 10px;
+}
+h1, .forgot-link{
+    text-align: center;
+}
+.forgotlink{
+    margin: 2%;
+}
+.forgot-link a{
+    color: black;
+}
